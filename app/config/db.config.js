@@ -1,8 +1,8 @@
 //app/config/db.config.js
 module.exports = {
-    HOST: "xxx",
-    USER: "xxx",
-    PASSWORD: "xxx",
-    DATABASE: "xxx"
+    HOST: "localhost",
+    USER: "root",
+    PASSWORD: "",
+    DATABASE: "polibatam"
    };
    
